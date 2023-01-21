@@ -40,6 +40,7 @@ Hello there! 👋 It's Jean-François here. I used to be a chemist 👨‍🔬�
 ![gitlab](https://img.shields.io/badge/gitlab-orange.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-lightblue.svg?style=for-the-badge&logo=docker&logoColor=blue)
+
 ![prettier](https://img.shields.io/badge/prettier-gray.svg?style=for-the-badge&logo=prettier&logoColor=gr)
 ![eslint](https://img.shields.io/badge/eslint-purple.svg?style=for-the-badge&logo=eslint&logoColor=white)
 
