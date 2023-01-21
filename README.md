@@ -7,7 +7,7 @@
 
 Hello there! 👋 It's Jean-François here. I used to be a chemist 👨‍🔬⚗️🔬🧪, now I turn developper. 🎉
 
-## Some stuff I'm working with: 💼
+## Some stuff 💼 I'm working with: 
 
 ### ✒ Languages
 
@@ -49,7 +49,7 @@ Hello there! 👋 It's Jean-François here. I used to be a chemist 👨‍🔬�
 ![notion](https://img.shields.io/badge/notion-black.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![jira](https://img.shields.io/badge/jira-darkblue.svg?style=for-the-badge&logo=jirasoftware&logoColor=blue)
 
-### ⏳ ~~work~~ learning in progress
+### ⏳ ~~Work~~ Learning in progress
 
 ![react](https://img.shields.io/badge/react-%232d4fff.svg?style=for-the-badge&logo=react&logoColor=%2304D8F9)
 ![figma](https://img.shields.io/badge/figma-salmon.svg?style=for-the-badge&logo=figma)
