@@ -7,7 +7,7 @@
 
 Hello there! 👋 It's Jean-François here. I used to be a chemist 👨‍🔬⚗️🔬🧪, now I turn developper. 🎉
 
-## Some stuff 💼 I'm working with: 
+## Some stuff 💼 I'm working (or used to work) with: 
 
 ### ✒ Languages
 
@@ -16,10 +16,18 @@ Hello there! 👋 It's Jean-François here. I used to be a chemist 👨‍🔬�
 ![php](https://img.shields.io/badge/php-%2379FF.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### 💻 Frontend frameworks, libraries & UI
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
+![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![axios](https://img.shields.io/badge/axios-white.svg?style=for-the-badge&logo=axios&logoColor=purple)
 
 ![angular](https://img.shields.io/badge/angular-%23b52e31.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![angularmaterial](https://img.shields.io/badge/angular_material-%233f51b5.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
+
 
 ### 💾 Backend & Database
 
@@ -27,6 +35,8 @@ Hello there! 👋 It's Jean-François here. I used to be a chemist 👨‍🔬�
 ![expressjs](https://img.shields.io/badge/express-%23FFFF.svg?style=for-the-badge&logo=express&logoColor=black)
 ![sequelize](https://img.shields.io/badge/sequelize-cyan.svg?style=for-the-badge&logo=sequelize&logoColor=blue)
 ![postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ![mySQL](https://img.shields.io/badge/mysql-%2307405e.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![symfony](https://img.shields.io/badge/symfony-white.svg?style=for-the-badge&logo=symfony&logoColor=black)
@@ -38,7 +48,7 @@ Hello there! 👋 It's Jean-François here. I used to be a chemist 👨‍🔬�
 ![vscode](https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![gitlab](https://img.shields.io/badge/gitlab-orange.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![docker](https://img.shields.io/badge/docker-lightblue.svg?style=for-the-badge&logo=docker&logoColor=blue)
 
 ![prettier](https://img.shields.io/badge/prettier-gray.svg?style=for-the-badge&logo=prettier&logoColor=gr)
@@ -51,5 +61,5 @@ Hello there! 👋 It's Jean-François here. I used to be a chemist 👨‍🔬�
 
 ### ⏳ ~~Work~~ Learning in progress
 
-![react](https://img.shields.io/badge/react-%232d4fff.svg?style=for-the-badge&logo=react&logoColor=%2304D8F9)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-salmon.svg?style=for-the-badge&logo=figma)
