@@ -33,8 +33,9 @@ Hello there! 👋 It's Jean-François here. I used to be a chemist 👨‍🔬�
 
 ![nodeJS](https://img.shields.io/badge/node_js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![expressjs](https://img.shields.io/badge/express-%23FFFF.svg?style=for-the-badge&logo=express&logoColor=black)
-![sequelize](https://img.shields.io/badge/sequelize-cyan.svg?style=for-the-badge&logo=sequelize&logoColor=blue)
 ![postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![sequelize](https://img.shields.io/badge/sequelize-cyan.svg?style=for-the-badge&logo=sequelize&logoColor=blue)
+![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ![mySQL](https://img.shields.io/badge/mysql-%2307405e.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -62,4 +63,5 @@ Hello there! 👋 It's Jean-François here. I used to be a chemist 👨‍🔬�
 ### ⏳ ~~Work~~ Learning in progress
 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![figma](https://img.shields.io/badge/figma-salmon.svg?style=for-the-badge&logo=figma)
