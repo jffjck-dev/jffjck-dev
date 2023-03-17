@@ -18,6 +18,7 @@ Hello there! 👋 It's Jean-François here. I used to be a chemist 👨‍🔬�
 ### 💻 Frontend frameworks, libraries & UI
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white)
@@ -53,8 +54,10 @@ Hello there! 👋 It's Jean-François here. I used to be a chemist 👨‍🔬�
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![docker](https://img.shields.io/badge/docker-lightblue.svg?style=for-the-badge&logo=docker&logoColor=blue)
 
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![prettier](https://img.shields.io/badge/prettier-gray.svg?style=for-the-badge&logo=prettier&logoColor=gr)
 ![eslint](https://img.shields.io/badge/eslint-purple.svg?style=for-the-badge&logo=eslint&logoColor=white)
+
 
 ### 📝 Project Management
 
@@ -63,6 +66,7 @@ Hello there! 👋 It's Jean-François here. I used to be a chemist 👨‍🔬�
 
 ### ⏳ ~~Work~~ Learning in progress
 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![figma](https://img.shields.io/badge/figma-salmon.svg?style=for-the-badge&logo=figma)
