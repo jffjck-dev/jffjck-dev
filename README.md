@@ -54,6 +54,7 @@ Hello there! 👋 It's Jean-François here. I used to be a chemist 👨‍🔬�
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![docker](https://img.shields.io/badge/docker-lightblue.svg?style=for-the-badge&logo=docker&logoColor=blue)
 
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![prettier](https://img.shields.io/badge/prettier-gray.svg?style=for-the-badge&logo=prettier&logoColor=gr)
 ![eslint](https://img.shields.io/badge/eslint-purple.svg?style=for-the-badge&logo=eslint&logoColor=white)
