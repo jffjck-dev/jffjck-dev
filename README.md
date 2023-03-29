@@ -23,8 +23,10 @@ Hello there! 👋 It's Jean-François here. I used to be a chemist 👨‍🔬�
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
 ![axios](https://img.shields.io/badge/axios-white.svg?style=for-the-badge&logo=axios&logoColor=purple)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+
 
 ![angular](https://img.shields.io/badge/angular-%23b52e31.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![angularmaterial](https://img.shields.io/badge/angular_material-%233f51b5.svg?style=for-the-badge&logo=angular&logoColor=white)
