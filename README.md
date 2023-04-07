@@ -20,10 +20,10 @@ Hello there! 👋 It's Jean-François here. I used to be a chemist 👨‍🔬�
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
-![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![figma](https://img.shields.io/badge/figma-salmon.svg?style=for-the-badge&logo=figma)
 
 ![axios](https://img.shields.io/badge/axios-white.svg?style=for-the-badge&logo=axios&logoColor=purple)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
@@ -32,6 +32,7 @@ Hello there! 👋 It's Jean-François here. I used to be a chemist 👨‍🔬�
 ![angular](https://img.shields.io/badge/angular-%23b52e31.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![angularmaterial](https://img.shields.io/badge/angular_material-%233f51b5.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 
 
@@ -76,4 +77,3 @@ Hello there! 👋 It's Jean-François here. I used to be a chemist 👨‍🔬�
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![figma](https://img.shields.io/badge/figma-salmon.svg?style=for-the-badge&logo=figma)
