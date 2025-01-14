@@ -1,6 +1,6 @@
 <h1 align="center">
   <span>Jean-François JCK</span><br>
-  <span>👨‍💻 Web Developer </span>
+  <span>👨‍💻 Web Developer & ✍️ UI Design Enthusiast</span>
 </h1>
 
 <br />
