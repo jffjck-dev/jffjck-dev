@@ -15,7 +15,6 @@ Hello there! 👋 It's Jean-François here. I used to be a chemist 👨‍🔬�
 ![typescript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![php](https://img.shields.io/badge/php-%2379FF.svg?style=for-the-badge&logo=php&logoColor=white)
 
-
 ### 💻 Frontend frameworks, libraries & UI
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -24,7 +23,6 @@ Hello there! 👋 It's Jean-François here. I used to be a chemist 👨‍🔬�
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-salmon.svg?style=for-the-badge&logo=figma)
 ![axios](https://img.shields.io/badge/axios-white.svg?style=for-the-badge&logo=axios&logoColor=purple)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
@@ -59,14 +57,10 @@ Hello there! 👋 It's Jean-François here. I used to be a chemist 👨‍🔬�
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![docker](https://img.shields.io/badge/docker-lightblue.svg?style=for-the-badge&logo=docker&logoColor=blue)
 
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![prettier](https://img.shields.io/badge/prettier-gray.svg?style=for-the-badge&logo=prettier&logoColor=gr)
 ![eslint](https://img.shields.io/badge/eslint-purple.svg?style=for-the-badge&logo=eslint&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-
 
 ### 📝 Project Management
 
@@ -78,6 +72,7 @@ Hello there! 👋 It's Jean-François here. I used to be a chemist 👨‍🔬�
 
 ### ⏳ ~~Work~~ Learning in progress
 
+![python](https://img.shields.io/badge/python-%23339933.svg?style=for-the-badge&logo=python&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
