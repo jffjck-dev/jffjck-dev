@@ -1,6 +1,6 @@
 Hello there! 👋 It's Jean-François here. A former chemist 👨🏻‍🔬 turned web developer 🧑🏻‍💻
 
-I build fast, accessible front-ends with **Vue and React**.\
+I build fast, accessible front-ends with **Vue and React**\
 As a UI design enthusiast ✍️, I enjoy mockups in Figma, visual identities and logo design 🎨\
 My lab years ⚗️ left me with a taste for rigor, testing hypotheses and clean iterations 🔄
 
