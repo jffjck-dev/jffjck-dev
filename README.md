@@ -1,4 +1,4 @@
-Hello there! 👋 It's Jean-François here. I used to be a chemist 👨🏻‍🔬⚗️, now I turn Web Developer. 🧑🏻‍💻🎉
+Hello there! 👋 It's Jean-François here. I used to be a chemist 👨🏻‍🔬⚗️, now I turn web developer. 🧑🏻‍💻🎉
 
 ![javascript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![typescript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
